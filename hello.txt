@@ -1,6 +1,5 @@
 # hello world
-# 
-ƒ„∫√ ¿ΩÁ
+# nihao shijie!
 # made by key
 class hello(object):
 	print("hello,world!!")
