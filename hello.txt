@@ -1,0 +1,6 @@
+# hello world
+# 
+ÄãºÃÊÀ½ç
+# made by key
+class hello(object):
+	print("hello,world!!")
